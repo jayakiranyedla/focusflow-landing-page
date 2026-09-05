@@ -61,3 +61,13 @@ focusflow-landing-page/
 ├── favicon.svg
 ├── focusflow-preview.png
 └── README.md
+
+## About
+
+This project was built as a frontend portfolio project to practice responsive web design, UI structure, CSS layout techniques, and JavaScript interactions.
+
+## Author
+
+**Jaya Kiran**
+
+[GitHub](https://github.com/jayakiranyedla)
