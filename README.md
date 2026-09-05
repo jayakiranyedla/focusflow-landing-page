@@ -52,7 +52,7 @@ The design focuses on clean typography, spacing, responsive layouts, and simple 
 
 ## Project Structure
 
-```text
+<pre>
 focusflow-landing-page/
 │
 ├── index.html
@@ -61,6 +61,7 @@ focusflow-landing-page/
 ├── favicon.svg
 ├── focusflow-preview.png
 └── README.md
+</pre>
 
 ## About
 
