@@ -12,11 +12,11 @@ FocusFlow is a responsive productivity app landing page designed around a simple
 
 ## Project Overview
 
-FocusFlow is a frontend SaaS landing page built to demonstrate a clean, responsive product interface using vanilla web technologies.
+FocusFlow is a frontend SaaS landing page built using vanilla web technologies.
 
 The page includes a product dashboard preview, feature sections, workflow explanation, pricing cards, testimonial content, and a final call-to-action section.
 
-The design focuses on clear typography, spacing, responsive layouts, and subtle interactions rather than heavy animations or visual effects.
+The design focuses on clean typography, spacing, responsive layouts, and simple interactions rather than heavy animations or visual effects.
 
 ## Features
 
@@ -34,12 +34,12 @@ The design focuses on clear typography, spacing, responsive layouts, and subtle 
 ## What I Implemented
 
 - Built the page structure using semantic HTML5
-- Created the responsive layout with CSS Grid and Flexbox
+- Created responsive layouts using CSS Grid and Flexbox
 - Added mobile navigation using JavaScript
 - Implemented an interactive 25-minute focus timer
 - Designed reusable buttons, cards, navigation, and content sections
 - Added responsive breakpoints for smaller screens
-- Added basic accessibility attributes to interactive elements
+- Added accessibility attributes to interactive elements
 - Published the project using GitHub Pages
 
 ## Built With
@@ -60,9 +60,9 @@ focusflow-landing-page/
 ├── script.js
 ├── favicon.svg
 ├── focusflow-preview.png
-└── README.md
+└── README.```md
 
-## About
+### About
 
 This project was built as a frontend portfolio project to practice responsive web design, UI structure, CSS layout techniques, and JavaScript interactions.
 
