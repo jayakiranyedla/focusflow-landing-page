@@ -60,9 +60,9 @@ focusflow-landing-page/
 ├── script.js
 ├── favicon.svg
 ├── focusflow-preview.png
-└── README.```md
+└── README.md
 
-### About
+## About
 
 This project was built as a frontend portfolio project to practice responsive web design, UI structure, CSS layout techniques, and JavaScript interactions.
 
