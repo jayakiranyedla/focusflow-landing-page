@@ -46,6 +46,7 @@ The design focuses on clean typography, spacing, responsive layouts, and simple 
 
 - HTML5
 - CSS3
+- Bootstrap 5
 - JavaScript
 - Git & GitHub
 - GitHub Pages
